@@ -2,7 +2,7 @@
 <p align="center"><i>Repository for versioning and project documentation used during the create Microsservice.</i></p>
 
 ##  About this project
-Creation of 3 microservices persisting in 3 different databases. Creating Client and Service with GRPC. Microservices developed with C#, .net core and Docker.
+Creation some microsservices, message, notifications, use diferents databases, conection with api gatway, monitor metrics and use webhooks.
 
 ### Technologies
 <p display="inline-block">
@@ -13,6 +13,12 @@ Creation of 3 microservices persisting in 3 different databases. Creating Client
 </p>
                                                                                                   
 ### Development Tools
+
+<p display="inline-block">
+  <img width="48" src="https://static.wikia.nocookie.net/logopedia/images/e/ec/Microsoft_Visual_Studio_2022.svg" alt="vs-logo"/>
+</p>
+
+### Architecture
 
 <p display="inline-block">
   <img width="48" src="https://static.wikia.nocookie.net/logopedia/images/e/ec/Microsoft_Visual_Studio_2022.svg" alt="vs-logo"/>
