@@ -21,7 +21,7 @@ Creation some microsservices, message, notifications, use diferents databases, c
 ### Architecture
 
 <p display="inline-block">
-  <img width="48" src="https://github.com/Jeffconexion/ProjectEShopOn/blob/main/Architecture.png" alt="vs-logo"/>
+  <img width="90%" heigth="90%" src="https://github.com/Jeffconexion/ProjectEShopOn/blob/main/Architecture.png" alt="vs-logo"/>
 </p>
 
 ## Running
