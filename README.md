@@ -1,4 +1,4 @@
-<h1 align="center">Microsservice Poc</h1>
+<h1 align="center">eShopOn</h1>
 <p align="center"><i>Repository for versioning and project documentation used during the create Microsservice.</i></p>
 
 ##  About this project
